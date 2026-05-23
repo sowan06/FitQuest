@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_gold">#FFF5C518</color>
+    <color name="accent_gold_dim">#FFF0C110</color>
+    <color name="bg_deep">#FF0D0D1A</color>
+    <color name="border">#FF4A4A8A</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="red">#FFF44336</color>
+    <color name="surface">#FF1A1A2E</color>
+    <color name="surface_high">#FF1E1E2C</color>
+    <color name="text_muted">#FF6666AA</color>
+    <color name="text_primary">#FFE0E0FF</color>
+    <string name="app_name">FitQuest</string>
+    <string name="claim_xp">CLAIM</string>
+    <string name="error_generic">SOMETHING WENT WRONG</string>
+    <string name="error_offline">OFFLINE — DATA CACHED LOCALLY</string>
+    <string name="in_progress">IN PROGRESS</string>
+    <string name="loading">LOADING</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="login_email">EMAIL</string>
+    <string name="login_password">PASSWORD</string>
+    <string name="login_subtitle">YOUR QUEST AWAITS</string>
+    <string name="login_title">FITQUEST</string>
+    <string name="login_username">USERNAME</string>
+    <string name="nav_character">HERO</string>
+    <string name="nav_eat">EAT</string>
+    <string name="nav_home">HOME</string>
+    <string name="nav_quest">QUEST</string>
+    <string name="nav_train">TRAIN</string>
+    <string name="register_btn">CREATE HERO</string>
+    <string name="toggle_to_login">RETURNING HERO? LOGIN</string>
+    <string name="toggle_to_register">NEW HERE? CREATE HERO</string>
+    <style name="Theme.FitQuest" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bg_deep</item>
+        <item name="android:statusBarColor">@color/bg_deep</item>
+        <item name="android:navigationBarColor">@color/bg_deep</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

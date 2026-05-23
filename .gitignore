@@ -1,0 +1,17 @@
+# node
+node_modules/
+backend/.env
+backend/coverage/
+
+# android
+app/.gradle/
+app/build/
+app/local.properties
+app/.idea/
+app/*.iml
+app/captures/
+app/.cxx/
+
+# misc
+.DS_Store
+*.log

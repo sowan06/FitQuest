@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mirrors values from ui/theme/Color.kt for non-Compose surfaces. -->
+    <color name="bg_deep">#FF0D0D1A</color>
+    <color name="surface">#FF1A1A2E</color>
+    <color name="surface_high">#FF1E1E2C</color>
+    <color name="border">#FF4A4A8A</color>
+    <color name="accent_gold">#FFF5C518</color>
+    <color name="accent_gold_dim">#FFF0C110</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="red">#FFF44336</color>
+    <color name="text_primary">#FFE0E0FF</color>
+    <color name="text_muted">#FF6666AA</color>
+</resources>

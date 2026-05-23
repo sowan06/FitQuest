@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitQuest</string>
+
+    <!-- Auth -->
+    <string name="login_title">FITQUEST</string>
+    <string name="login_subtitle">YOUR QUEST AWAITS</string>
+    <string name="login_username">USERNAME</string>
+    <string name="login_email">EMAIL</string>
+    <string name="login_password">PASSWORD</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="register_btn">CREATE HERO</string>
+    <string name="toggle_to_register">NEW HERE? CREATE HERO</string>
+    <string name="toggle_to_login">RETURNING HERO? LOGIN</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_home">HOME</string>
+    <string name="nav_train">TRAIN</string>
+    <string name="nav_eat">EAT</string>
+    <string name="nav_quest">QUEST</string>
+    <string name="nav_character">HERO</string>
+
+    <!-- Generic -->
+    <string name="loading">LOADING</string>
+    <string name="error_generic">SOMETHING WENT WRONG</string>
+    <string name="error_offline">OFFLINE — DATA CACHED LOCALLY</string>
+    <string name="claim_xp">CLAIM</string>
+    <string name="in_progress">IN PROGRESS</string>
+</resources>

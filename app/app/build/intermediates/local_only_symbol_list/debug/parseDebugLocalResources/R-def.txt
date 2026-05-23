@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color accent_gold
+color accent_gold_dim
+color bg_deep
+color border
+color green
+color red
+color surface
+color surface_high
+color text_muted
+color text_primary
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string claim_xp
+string error_generic
+string error_offline
+string in_progress
+string loading
+string login_btn
+string login_email
+string login_password
+string login_subtitle
+string login_title
+string login_username
+string nav_character
+string nav_eat
+string nav_home
+string nav_quest
+string nav_train
+string register_btn
+string toggle_to_login
+string toggle_to_register
+style Theme.FitQuest
+xml data_extraction_rules
